@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\examples",
+    "\\src\\lib",
+    "\\src\\threads",
+    "\\src\\userprog"
+  ],
+  "SelectedNode": "\\src\\userprog\\syscall.c",
+  "PreviewInSolutionExplorer": false
+}
